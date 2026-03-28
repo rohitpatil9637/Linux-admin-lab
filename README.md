@@ -17,7 +17,7 @@ I built this mostly to automate routine tasks and practice writing clean, safe s
 clone the repo and run whatever module you're interested in:
 
 ```bash
-git clone https://github.com/yourusername/linux-admin-lab.git
+git clone https://github.com/rohitpatil9637/Linux-admin-lab.git
 cd linux-admin-lab
 
 # Make the scripts executable
